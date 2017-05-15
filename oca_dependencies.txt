@@ -1,0 +1,1 @@
+addons git@github.com:odoo/odoo.git
